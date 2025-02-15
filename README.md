@@ -20,6 +20,7 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1WiWLl1e79oo52M4ff2VRhJr_tRWabEEa?usp=drive_link](https://drive.google.com/drive/folders/1WiWLl1e79oo52M4ff2VRhJr_tRWabEEa?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left">
 <a href="https://linkedin.com/in/arushi-chandrakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arushi-chandrakar" height="30" width="40" /></a>
 </p>
