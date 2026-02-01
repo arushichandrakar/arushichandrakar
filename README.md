@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arushi Chandrakar</h1>
-<h3 align="center">A Data-driven analyst with expertise in Python, SQL, and Tableau, extracting insights from complex datasets to drive informed decision-making.</h3>
+<h3 align="center">Tech-oriented Supply Chain Analyst and Assistant Manager with a strong foundation in optimizing end-to-end supply chain operations through data-driven decision-making. Proficient in SAP, Python, SQL, Tableau, Power BI, and Excel, with hands-on expertise in automating planning processes, enhancing procurement accuracy, and improving material flow visibility. 
+Known for delivering measurable impact—such as reducing operational bottlenecks, improving forecast reliability, and accelerating execution efficiency—by integrating advanced analytics with ERP systems. Brings a scalable and agile mindset suited for dynamic, product-based environments seeking to digitize and future-proof their supply chain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arushichandrakar&label=Profile%20views&color=0e75b6&style=flat" alt="arushichandrakar" /> </p>
 
@@ -17,7 +18,7 @@
 
 - 📫 How to reach me **arushi20x@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1WiWLl1e79oo52M4ff2VRhJr_tRWabEEa?usp=drive_link](https://drive.google.com/drive/folders/1WiWLl1e79oo52M4ff2VRhJr_tRWabEEa?usp=drive_link)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/drive/folders/1WiWLl1e79oo52M4ff2VRhJr_tRWabEEa?usp=drive_link](https://drive.google.com/drive/folders/1WiWLl1e79oo52M4ff2VRhJr_tRWabEEa?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRmdHhibWg0ZDBnMjdzaXhycHN2cGZ2ZnZtcjFucG93ZmdhMnc1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
