@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arushi Chandrakar</h1>
-<h3 align="center">Tech-oriented Supply Chain Analyst and Assistant Manager with a strong foundation in optimizing end-to-end supply chain operations through data-driven decision-making. Proficient in SAP, Python, SQL, Tableau, Power BI, and Excel, with hands-on expertise in automating planning processes.</h3>
+<h3 align="center">Tech-oriented Supply Chain Analyst and Assistant Manager with a strong foundation in optimizing end-to-end supply chain operations through data-driven decision-making.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arushichandrakar&label=Profile%20views&color=0e75b6&style=flat" alt="arushichandrakar" /> </p>
 
