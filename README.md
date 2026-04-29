@@ -16,7 +16,7 @@ within a large matrixed organization. Adept at partnering with stakeholders, ana
 
 - 💬 Ask me about **SQL, Python, Data Analytics & Visualization**
 
-- 📫 How to reach me **arushi20x@gmail.com**
+- 📫 How to reach me **arushi10x@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRmdHhibWg0ZDBnMjdzaXhycHN2cGZ2ZnZtcjFucG93ZmdhMnc1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
