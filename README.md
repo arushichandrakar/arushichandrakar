@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arushi Chandrakar</h1>
 <h3 align="center">Tech-oriented Operations and Procurement professional with 2+ years managing vendor acquisition and corporate travel sourcing within a large matrixed organization. Adept at partnering with stakeholders, analyzing RFPs via should-cost models, and negotiating contracts with international airlines and service providers to achieve the lowest total cost of ownership (TCO).</h3>
 
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRmdHhibWg0ZDBnMjdzaXhycHN2cGZ2ZnZtcjFucG93ZmdhMnc1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=arushichandrakar&label=Profile%20views&color=0e75b6&style=flat" alt="arushichandrakar"/></p>
 
 - 🔭 I'm currently working on **Data Visualization**
@@ -10,16 +12,10 @@
 - 💬 Ask me about **SQL, Python, Data Analytics & Visualization**
 - 📫 How to reach me **arushi10x@gmail.com**
 
----
-
 <h3 align="left">Connect with me:</h3>
-
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRmdHhibWg0ZDBnMjdzaXhycHN2cGZ2ZnZtcjFucG93ZmdhMnc1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
 
 | <a href="https://linkedin.com/in/arushi-chandrakar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/></a> |
 |:-:|
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 
